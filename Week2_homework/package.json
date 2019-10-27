@@ -1,0 +1,22 @@
+{
+  "name": "wtmb-jscc-project-verymary",
+  "version": "1.0.0",
+  "description": "database, where HR-people can look for services that improve the satisfaction of employees ( like yoga, massage, fresh fruits).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verymary-berlin/wtmb-jscc-project-verymary.git"
+  },
+  "author": "Maria Rumyantseva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verymary-berlin/wtmb-jscc-project-verymary/issues"
+  },
+  "homepage": "https://github.com/verymary-berlin/wtmb-jscc-project-verymary#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
